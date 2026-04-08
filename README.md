@@ -1,4 +1,4 @@
-![My Stats](profile-stats.svg)
+![My Stats](./profile-stats.svg)
 
 
 <!-- ## Hi there 👋
