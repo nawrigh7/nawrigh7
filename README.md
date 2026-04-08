@@ -1,6 +1,7 @@
-## Hi there 👋
+![My Stats](./profile-stats.svg)
 
-<!--
+
+<!-- ## Hi there 👋
 **nawrigh7/nawrigh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
