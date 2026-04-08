@@ -1,0 +1,10 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://w3.org">
+  <rect width="400" height="200" rx="10" fill="#0d1117" stroke="#30363d""")/>>
+  <text x="20" y="35" fill="#58a6ff" font-family="monospace" font-weight="bold" font-size="14">user@github:~$ neofetch</text>
+  <text x="20" y="65" fill="#c9d1d9" font-family="monospace" font-size="12">
+    <tspan x="20" dy="1.2em">OS: {os_val}</tspan>
+    <tspan x="20" dy="1.2em">UPTIME: {uptime_val}</tspan>
+    <tspan x="20" dy="1.2em">SHELL: {shell_val}</tspan>
+    <tspan x="20" dy="1.2em">STARS: {stars_val}</tspan>
+  </text>
+</svg>
