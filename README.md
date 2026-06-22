@@ -5,13 +5,13 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawrigh7" alt="nawrigh7" /></a> </p>-->
 
-- 🔭 I’m currently working on: A compiler from scratch, Company website full stack with automated testing
+- 🔭 I’m currently working on: A compiler from scratch, Company website full stack with automated testing, Webapp personal project
 
-- 🌱 I’m currently learning **Compiling to other languages and automation of testing**
+- 🌱 I’m currently learning **Legacy systems and Personal Webapp development**
 
-- 👯 I’m looking to collaborate on **Software projects far and wide**
+- 👯 I’m looking to collaborate on **Software and website / webapp projects**
 
-- 💬 Ask me about **Machine Learning, Distributed Systems, and Networks**
+- 💬 Ask me about **Machine Learning, Distributed Systems, and Software Development / Design**
 
 - 📫 How to reach me **nickawright1991@gmail.com**
 
