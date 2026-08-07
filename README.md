@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: A webapp (personal project) to plan, track, manage, and coordinate progress in video and tabletop games
 
-- 🌱 I’m currently learning **Legacy systems and Personal Webapp development**
+- 🌱 I’m currently learning about **Agentic Programming and Webapp development**
 
 - 👯 I’m looking to collaborate on **Software and website / webapp projects**
 
