@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nickawright1991@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nawrigh7/nawrigh7/blob/main/img/2026Resume.pdf](https://github.com/nawrigh7/nawrigh7/blob/main/img/2026Resume.pdf)
+- 📄 Learn about my experiences [here](https://github.com/nawrigh7/nawrigh7/blob/main/img/2026Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
