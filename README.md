@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawrigh7" alt="nawrigh7" /></a> </p>-->
 
-- 🔭 I’m currently working on: A compiler from scratch, Company website full stack with automated testing, Webapp personal project
+- 🔭 I’m currently working on: A webapp (personal project) to plan, track, manage, and coordinate progress in video and tabletop games
 
 - 🌱 I’m currently learning **Legacy systems and Personal Webapp development**
 
