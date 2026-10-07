@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nick</h1>
-<h3 align="center">A passionate software engineering student in Minnesota.</h3>
+<h3 align="center">A passionate software engineer in Minnesota.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawrigh7&label=Profile%20views&color=0e75b6&style=flat" alt="nawrigh7" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: A webapp (personal project) to plan, track, manage, and coordinate progress in video and tabletop games
 
-- 🌱 I’m currently learning about **Agentic Programming and Webapp development**
+- 🌱 I’m currently learning about **C# Game Development, and Webapp development**
 
 - 👯 I’m looking to collaborate on **Software and website / webapp projects**
 
